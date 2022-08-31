@@ -1,10 +1,8 @@
 {
     "index": {
-        "files": [
-            "README.md"
-        ],
-        "titles": {
-            "README.md": "Preface"
+        "/": {
+            "title": "Preface",
+            "file": "README.md"
         }
     }
 }
