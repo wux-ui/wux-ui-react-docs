@@ -1,3 +1,12 @@
+<div align="center">
+
+[![Release Version](https://shields.io/github/v/release/wux-ui/wux-ui-react?color=78aeff)](https://github.com/wux-ui/wux-ui-react/releases/latest)
+![GitHub Repo size](https://shields.io/github/repo-size/wux-ui/wux-ui-react?color=78aeff)
+
+</div>
+
+---
+
 # WuX-UI for React.js - All WuX-UI React components.
 
 Use WuX-UI for React.js to write WuX-UI components elegantly
