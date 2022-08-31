@@ -1,8 +1,10 @@
 {
-    "index": [
-        {
-            "path": "README.md",
-            "title": "Preface"
+    "index": {
+        "files": [
+            "README.md"
+        ],
+        "titles": {
+            "README.md": "Preface"
         }
-    ]
+    }
 }
