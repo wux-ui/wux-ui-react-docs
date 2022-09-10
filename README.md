@@ -18,7 +18,7 @@ Use WuX-UI-React to write WuX-UI components elegantly
 
 # Install
 
-You need to create a react application using [`create-react-app`](https://github.com/facebook/create-react-app) and clone the repo [`WuX-UI-React`](https://github.com/wux-ui/wux-ui-react) under the `src` folder
+You need to create a react application using [`create-react-app`](https://github.com/facebook/create-react-app) and clone the repo [`WuX-UI-React`](https://github.com/wux-ui/wux-ui-react) in the `src` folder
 ```sh
 create-react-app wux-ui
 cd .\wux-ui\src
