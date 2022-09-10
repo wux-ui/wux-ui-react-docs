@@ -8,9 +8,9 @@
             "title": "Preface",
             "file": "README.md"
         },
-        "/HeaderMargin": {
-            "title": "HeaderMargin Element",
-            "file": "HeaderMargin.md"
+        "/Header": {
+            "title": "Header Element",
+            "file": "Header.md"
         }
     }
 }
