@@ -42,14 +42,15 @@ import WuX from "./wux-ui-react";
 
 createRoot(document.getElementById('root')).render(
     <WuX.Header
-        title='Quick start'
+        title='WuX-UI-React Debug Page'
         small='Menu'
         option={[
-            ['First', 'https://example.com'],
-            ['Second', 'https://example.tk/', true]
+            { title: 'Github', link: 'https://github.com/wux-ui/wux-ui-react-docs' },
+            { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
+            <JsxElement />
         ]}
     />
-)
+);
 ```
 
 Then use `npm start` in the `src` folder to start the React project
