@@ -1,16 +1,20 @@
 {
-    "array": [
-        "/",
-        "/Header"
-    ],
-    "index": {
-        "/": {
-            "title": "Preface",
-            "file": "README.md"
-        },
-        "/Header": {
-            "title": "Header Element",
-            "file": "Header.md"
+    "array": {
+        "/Docs": [
+            "/",
+            "Header"
+        ]
+    },
+    "pages": {
+        "/Docs": {
+            "/": {
+                "title": "Preface",
+                "file": "README.md"
+            },
+            "Header": {
+                "title": "Header Element",
+                "file": "Header.md"
+            }
         }
     }
 }
