@@ -1,13 +1,13 @@
 {
     "array": {
         "/Docs": [
-            "/",
+            "README",
             "Header"
         ]
     },
     "pages": {
         "/Docs": {
-            "/": {
+            "README": {
                 "title": "Preface",
                 "file": "README.md"
             },
