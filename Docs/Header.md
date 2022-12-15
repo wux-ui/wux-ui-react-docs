@@ -13,9 +13,23 @@
 ```
 
 In DOM: 
+<details>
+<summary>Mobile Phones</summary>
+
 ```wux-html
 <nav class="wux-header wux-header-fixed"><span class="wux-header-title">WuX-UI-React</span><button class="wux-header-small-option-group">Menu</button><span class="wux-header-option-group"><a class="wux-header-option" href="https://react-docs.wux-ui.tk/">Docs</a><a class="wux-header-option" href="https://github.com/wux-ui/wux-ui-react">Github</a></span></nav>
 ```
+
+</details>
+
+<details>
+<summary>Computer</summary>
+
+```wux-html-full
+<nav class="wux-header wux-header-fixed"><span class="wux-header-title">WuX-UI-React</span><button class="wux-header-small-option-group">Menu</button><span class="wux-header-option-group"><a class="wux-header-option" href="https://react-docs.wux-ui.tk/">Docs</a><a class="wux-header-option" href="https://github.com/wux-ui/wux-ui-react">Github</a></span></nav>
+```
+
+</details>
 
 # Parameter
 
