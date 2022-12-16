@@ -53,4 +53,4 @@ createRoot(document.getElementById('root')).render(
 );
 ```
 
-Then use `npm start` in the `src` folder to start the React project
+Then use `npm start` in the main folder to start the React project
