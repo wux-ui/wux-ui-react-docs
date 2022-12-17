@@ -4,6 +4,9 @@
             "README",
             "Header",
             "Alert"
+        ],
+        "Types": [
+            "Header"
         ]
     },
     "pages": {
@@ -19,6 +22,12 @@
             "Alert": {
                 "title": "Alert Element",
                 "file": "Alert.md"
+            }
+        },
+        "Types": {
+            "Header": {
+                "title": "Header Type declaration",
+                "file": "Header.md"
             }
         }
     }
