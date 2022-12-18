@@ -6,7 +6,8 @@
             "Alert"
         ],
         "Types": [
-            "Header"
+            "Header",
+            "Alert"
         ]
     },
     "pages": {
@@ -28,6 +29,10 @@
             "Header": {
                 "title": "Header Type declaration",
                 "file": "Header.md"
+            },
+            "Alert": {
+                "title": "Alert Type declaration",
+                "file": "Alert.md"
             }
         }
     }
