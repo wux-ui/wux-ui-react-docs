@@ -1,17 +1,27 @@
 # Usage
 
 ```jsx
-<WuX.Button WuXType='primary'>Primary</WuX.Button>
+<WuX.Alert type='primary'>Primary</WuX.Alert>
 ```
 
 In DOM: 
 ```wux-jsx-render
-<WuX.Button WuXType='primary'>Primary</WuX.Button>
-<WuX.Button WuXType='secondary'>Secondary</WuX.Button>
-<WuX.Button WuXType='success'>Success</WuX.Button>
-<WuX.Button WuXType='info'>Info</WuX.Button>
-<WuX.Button WuXType='warning'>Warning</WuX.Button>
-<WuX.Button WuXType='error'>Error</WuX.Button>
-<WuX.Button WuXType='light'>Light</WuX.Button>
+<WuX.Alert type='primary'>Primary</WuX.Alert>
+<WuX.Alert type='secondary'>Secondary</WuX.Alert>
+<WuX.Alert type='success'>Success</WuX.Alert>
+<WuX.Alert type='info'>Info</WuX.Alert>
+<WuX.Alert type='warning'>Warning</WuX.Alert>
+<WuX.Alert type='error'>Error</WuX.Alert>
+<WuX.Alert type='light'>Light</WuX.Alert>
+<WuX.Alert type='primary'>
+    <WuX.Alert type='icon'>:D</WuX.Alert>
+    Icon
+</WuX.Alert>
+<WuX.Alert type='primary'>
+    AlertWithOption
+    <WuX.Alert type='option-group'>
+        <span>x</span>
+    </WuX.Alert>
+</WuX.Alert>
 :wux-jsx-render
 ```
