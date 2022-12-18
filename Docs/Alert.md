@@ -6,6 +6,6 @@
 
 In DOM: 
 ```wux-jsx-render
-<div class="wux-alert wux-alert-primary">Primary</div>
+<WuX.Alert type='primary'>Primary</WuX.Alert>
 :wux-jsx-render
 ```
