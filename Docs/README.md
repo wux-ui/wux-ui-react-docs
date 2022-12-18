@@ -47,7 +47,7 @@ createRoot(document.getElementById('root')).render(
         option={[
             { title: 'Github', link: 'https://github.com/wux-ui/wux-ui-react-docs' },
             { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
-            <JsxElement />
+            <div />
         ]}
     />
 );

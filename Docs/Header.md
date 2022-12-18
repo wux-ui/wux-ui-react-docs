@@ -7,7 +7,7 @@
    option={[
         { title: 'Github', link: 'https://github.com/wux-ui/wux-ui-react-docs' },
         { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
-        <JsxElement />
+        <div />
     ]}
 />
 ```
@@ -23,7 +23,7 @@ In DOM:
     option={[
         { title: 'Github', link: 'https://github.com/wux-ui/wux-ui-react-docs' },
         { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
-        <JsxElement />
+        <div />
     ]}
 />
 :wux-jsx-phone
@@ -41,7 +41,7 @@ In DOM:
     option={[
         { title: 'Github', link: 'https://github.com/wux-ui/wux-ui-react-docs' },
         { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
-        <JsxElement />
+        <div />
     ]}
 />
 :wux-jsx-full
