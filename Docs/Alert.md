@@ -25,3 +25,15 @@ In DOM:
 </WuX.Alert>
 :wux-jsx-render
 ```
+
+# Parameter
+
+name|describe|necessary (y / n)|type
+:-:|:-:|:-:|:-:
+type|a string to specify the type of the Alert element|y|*`AlertTypes`*
+
+## type
+
+type|example|describe
+:-:|:-:|:-:
+[*`AlertTypes`*](../Types/Alert.md#alerttypes)|`'primary'`|a string of the type of Alert element
