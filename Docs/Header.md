@@ -61,7 +61,9 @@ In DOM:
         { title: 'Offical Page', link: 'https://react.wux-ui.tk/', bold: true },
     ]}
     type='fixed'
-/>
+>
+    <p align='center'>Fixed Header</p>
+</WuX.Header>
 :wux-jsx-full
 ```
 
