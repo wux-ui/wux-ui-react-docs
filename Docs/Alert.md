@@ -5,7 +5,7 @@
 ```
 
 In DOM: 
-```wux-html-render
+```wux-jsx-render
 <div class="wux-alert wux-alert-primary">Primary</div>
-:wux-html-render
+:wux-jsx-render
 ```

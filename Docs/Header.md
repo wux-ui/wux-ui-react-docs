@@ -16,7 +16,7 @@ In DOM:
 <details>
 <summary>Mobile Phones</summary>
 
-```wux-html-phone
+```wux-jsx-phone
 <WuX.Header
     title='WuX-UI-React Debug Page'
     small='Menu'
@@ -26,7 +26,7 @@ In DOM:
         <JsxElement />
     ]}
 />
-:wux-html-phone
+:wux-jsx-phone
 ```
 
 </details>
@@ -34,7 +34,7 @@ In DOM:
 <details>
 <summary>Computer</summary>
 
-```wux-html-full
+```wux-jsx-full
 <WuX.Header
     title='WuX-UI-React Debug Page'
     small='Menu'
@@ -44,7 +44,7 @@ In DOM:
         <JsxElement />
     ]}
 />
-:wux-html-full
+:wux-jsx-full
 ```
 
 </details>
@@ -52,7 +52,7 @@ In DOM:
 <details>
 <summary>Fixed Header</summary>
 
-```wux-html-full
+```wux-jsx-full
 <WuX.Header
     title='Fixed Header'
     small='Menu'
@@ -62,7 +62,7 @@ In DOM:
     ]}
     type='fixed'
 />
-:wux-html-full
+:wux-jsx-full
 ```
 
 </details>
