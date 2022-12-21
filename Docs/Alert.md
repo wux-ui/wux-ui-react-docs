@@ -14,13 +14,15 @@ Includes `primary`, `secondary`... and so on
 
 JSX of example:  
 ```jsx
-<WuX.Alert type='primary'>Primary</WuX.Alert>
-<WuX.Alert type='secondary'>Secondary</WuX.Alert>
-<WuX.Alert type='success'>Success</WuX.Alert>
-<WuX.Alert type='info'>Info</WuX.Alert>
-<WuX.Alert type='warning'>Warning</WuX.Alert>
-<WuX.Alert type='error'>Error</WuX.Alert>
-<WuX.Alert type='light'>Light</WuX.Alert>
+<>
+    <WuX.Alert type='primary'>Primary</WuX.Alert>
+    <WuX.Alert type='secondary'>Secondary</WuX.Alert>
+    <WuX.Alert type='success'>Success</WuX.Alert>
+    <WuX.Alert type='info'>Info</WuX.Alert>
+    <WuX.Alert type='warning'>Warning</WuX.Alert>
+    <WuX.Alert type='error'>Error</WuX.Alert>
+    <WuX.Alert type='light'>Light</WuX.Alert>
+</>
 ```
   
 <details>
