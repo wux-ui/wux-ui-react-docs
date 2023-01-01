@@ -30,7 +30,7 @@ import WuX from '@wux-ui/react';
 
 # Quick start
 
-First initialize a [React](https://github.com/facebook/react) project using [`create-react-app`](https://github.com/facebook/create-react-app)
+First initialize a [React](https://github.com/facebook/react) project using [`create-react-app`](https://github.com/facebook/create-react-app)  
 Then copy this file to `index.jsx` in the `src` folder
 
 ```jsx
