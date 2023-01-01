@@ -30,7 +30,8 @@ import WuX from '@wux-ui/react';
 
 # Quick start
 
-Copy this file to index.js in the `src` folder
+First initialize a [React](https://github.com/facebook/react) project using [`create-react-app`](https://github.com/facebook/create-react-app)
+Then copy this file to `index.jsx` in the `src` folder
 
 ```jsx
 import React from "react";
@@ -50,4 +51,4 @@ createRoot(document.getElementById('root')).render(
 );
 ```
 
-Then use `npm start` in the main folder to start the React project
+Finally, use `npm start` in the main folder to start the React project
